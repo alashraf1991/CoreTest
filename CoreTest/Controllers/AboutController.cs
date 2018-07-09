@@ -23,7 +23,7 @@ namespace CoreTest.Controllers
             return View();
         }
         
-            public IActionResult Emre()
+            public IActionResult Emre1()
         {
             return View();
         }
