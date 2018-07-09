@@ -22,5 +22,10 @@ namespace CoreTest.Controllers
         {
             return View();
         }
+        
+            public IActionResult Emre()
+        {
+            return View();
+        }
     }
 }
